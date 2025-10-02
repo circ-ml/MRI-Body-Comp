@@ -201,5 +201,5 @@ ICD$ASCVD <- ifelse(
 ICD_pull_z <- select(ICD, PSID, myo_infarct_ICD, stroke_ICD, 
                      diabetes_ICD, hypertension_ICD, ASCVD)
 
-write.csv(ICD_pull_z, "path/ICD_pull_zScore_EARLIEST.csv", row.names=FALSE)
+write.csv(ICD_pull_z, "ICD_pull_zScore_EARLIEST.csv", row.names=FALSE)
 
