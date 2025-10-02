@@ -11,7 +11,7 @@ library(ggpubr)
 library(grid)
 
 
-full <- read.csv("path/RelBC_data_R2.csv",, sep = ",",dec = "." ) # load UKB data from Annals_Outcome_Definition.R
+full <- read.csv("RelBC_data_R2.csv",, sep = ",",dec = "." ) # load UKB data from Annals_Outcome_Definition.R
 
 ### Density plots by decades
 # Define age groups by decades
