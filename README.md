@@ -6,5 +6,5 @@ The initial lines of each script, which load the approrpiate .csv files needs to
 For the segmentation model used to generate the body composition measures from the original whole-body MR images, please see https://bitbucket.org/reisert/bodycompmodel
 
 
-Citation
+Citation:
 Matthias Jung, Marco Reisert, Hanna Rieder, et al. Association Between Body Composition and Cardiometabolic Outcomes: A Prospective Cohort Study. Ann Intern Med. [Epub 30 September 2025]. doi:10.7326/ANNALS-24-01863
