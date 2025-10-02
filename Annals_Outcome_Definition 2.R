@@ -174,5 +174,5 @@ full$BMI_cat[full$BMI >= 30] <- 2
 
 
 
-write.csv(full, "path/RelBC_data_R2.csv", row.names=FALSE)
+write.csv(full, "RelBC_data_R2.csv", row.names=FALSE)
 
